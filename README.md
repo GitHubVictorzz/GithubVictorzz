@@ -25,13 +25,12 @@
 </h3>
 
 <p align="center">
-	<a href="https://dev.to/joaovictor"><img src="img/dev.svg"/></a>
+	<h2><a href="https://dev.to/joaovictor"><img src="img/dev.svg"/></a></h2>
 	<br>
-	<a href="https://github.com/GitHubVictorzz"><img src="img/github.svg"/></a>
+	<h2><a href="https://github.com/GitHubVictorzz"><img src="img/github.svg"/></a></h2>
 	<br>
-	<a href="#EM PRODUÇÃO"><img src="img/linkdin.svg"/></a>
+	<h2><a href="#EM PRODUÇÃO"><img src="img/linkdin.svg"/></a></h2>
 	<br>
 	<a href="https://twitter.com/Joao_Victorzz"><img src="img/twitter.svg"/></a>
 	<br>
 </p>
-⭐️ From [JoãoVictor](https://github.com/GitHubVictorzz)
