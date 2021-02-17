@@ -25,11 +25,11 @@
 </h3>
 
 <p align="center">
-	<h2><a href="https://dev.to/joaovictor"><img src="img/dev.svg"/></a></h2>
+	<a href="https://dev.to/joaovictor"><img src="img/dev.svg"/></a>
 	<br>
-	<h2><a href="https://github.com/GitHubVictorzz"><img src="img/github.svg"/></a></h2>
+	<a href="https://github.com/GitHubVictorzz"><img src="img/github.svg"/></a>
 	<br>
-	<h2><a href="#EM PRODUÇÃO"><img src="img/linkdin.svg"/></a></h2>
+	<a href="#EM PRODUÇÃO"><img src="img/linkdin.svg"/></a>
 	<br>
 	<a href="https://twitter.com/Joao_Victorzz"><img src="img/twitter.svg"/></a>
 	<br>
