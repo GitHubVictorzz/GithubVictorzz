@@ -31,7 +31,7 @@
 	<br>
 	<a href="#EM PRODUÇÃO"><img src="img/linkdin.svg"/></a>
 	<br>
-	<a href="https://twitter.com/Joao_Victorzz"><img src="img/twitter-3.svg"/></a>
+	<a href="https://twitter.com/Joao_Victorzz"><img src="img/twitter.svg"/></a>
 	<br>
 </p>
 ⭐️ From [JoãoVictor](https://github.com/GitHubVictorzz)
