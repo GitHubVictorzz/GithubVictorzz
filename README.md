@@ -19,18 +19,3 @@
 	<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" />
 	<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
 </p>
-
-<h3 align="center">
-	Onde Pode Me Contrar:
-</h3>
-
-<p align="center">
-	<a href="https://dev.to/joaovictor"><img src="img/dev.svg"/></a>
-	<br>
-	<a href="https://github.com/GitHubVictorzz"><img src="img/github.svg"/></a>
-	<br>
-	<a href="#EM PRODUÇÃO"><img src="img/linkdin.svg"/></a>
-	<br>
-	<a href="https://twitter.com/Joao_Victorzz"><img src="img/twitter.svg"/></a>
-	<br>
-</p>
